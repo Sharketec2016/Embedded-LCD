@@ -15,5 +15,6 @@ RS ---> Pin 10, or PB2
  | PD0 - PD7  => D0 - D7
 
 ## Dependencies 
+- [PlatformIO](https://platformio.org/) -> Used for creating the packages firmware, flashing, and deploying onto ATMega328P MCU.
 - [Avrdudes/AVR](https://github.com/avrdudes/avr-libc)
 - [Arduino C Library](https://docs.arduino.cc/libraries/)
