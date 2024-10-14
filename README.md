@@ -9,7 +9,7 @@ Microprocessor ATMega328P through Arduino Nano pcb. Firmware sets up nano for di
 
 ## Pinout of LCD and Nano
 
-RS ---> Pin 10, or PB2 \ 
+RS &#8594; Pin 10, or PB2 \ 
 R/W ---> Pin 9, or PB1 \ 
 EN ---> Pin 8, or PB0 \ 
 PD0 - PD7  => D0 - D7
